@@ -1,1 +1,4 @@
 
+[submodule "python/codecrafters-shell-python"]
+	path = python/codecrafters-shell-python
+	url = https://github.com/DaveHurley7/codecraft-challenge-shell
