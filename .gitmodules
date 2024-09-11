@@ -1,6 +1,1 @@
-[submodule "codecraft-challenge-shell"]
-	path = codecraft-challenge-shell
-	url = https://github.com/DaveHurley7/codecraft-challenge-shell
-[submodule "codecraft-challenge-httpserver"]
-	path = codecraft-challenge-httpserver
-	url = https://github.com/DaveHurley7/codecraft-challenge-httpserver
+
