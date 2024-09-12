@@ -7,3 +7,6 @@
 [submodule "python/codecrafters-bittorrent-python"]
 	path = python/codecrafters-bittorrent-python
 	url = https://github.com/DaveHurley7/codecraft-bittorrent-python
+[submodule "python/codecrafters-docker-python"]
+	path = python/codecrafters-docker-python
+	url = https://github.com/DaveHurley7/codecraft-docker-python
