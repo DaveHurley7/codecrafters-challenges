@@ -1,4 +1,6 @@
-
 [submodule "python/codecrafters-shell-python"]
 	path = python/codecrafters-shell-python
 	url = https://github.com/DaveHurley7/codecraft-challenge-shell
+[submodule "python/codecrafters-http-server-python"]
+	path = python/codecrafters-http-server-python
+	url = https://github.com/DaveHurley7/codecraft-challenge-httpserver
