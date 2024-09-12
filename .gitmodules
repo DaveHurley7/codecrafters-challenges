@@ -13,3 +13,6 @@
 [submodule "python/codecrafters-dns-server-python"]
 	path = python/codecrafters-dns-server-python
 	url = https://github.com/DaveHurley7/codecraft-dns-python
+[submodule "python/codecrafters-sqlite-python"]
+	path = python/codecrafters-sqlite-python
+	url = https://github.com/DaveHurley7/codecraft-sqlite-python
