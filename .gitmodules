@@ -4,3 +4,6 @@
 [submodule "python/codecrafters-http-server-python"]
 	path = python/codecrafters-http-server-python
 	url = https://github.com/DaveHurley7/codecraft-challenge-httpserver
+[submodule "python/codecrafters-bittorrent-python"]
+	path = python/codecrafters-bittorrent-python
+	url = https://github.com/DaveHurley7/codecraft-bittorrent-python
